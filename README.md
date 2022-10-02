@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=250&section=header&text=Tiko&fontSize=70)
+<br/>
 
 ## <p align = 'center'> 🧰 Tech Stacks 🧰 <p>
   <div align = 'center'>
@@ -21,6 +22,8 @@
     <img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
     <img src = "https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=Android%20Studio&logoColor=white"/>
   </div>
+<br/>
+<br/>
 
 ## <p align = 'center'> 🗃️ Projects 🗃️ <p>
   <div align = 'center'>
