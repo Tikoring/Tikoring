@@ -33,7 +33,7 @@
     <img src = "https://img.shields.io/badge/C%23-8000FF?style=flat-square&logo=C%23&logoColor=white"/><br/>
     <b>2021.10-2021.12</b><br/>
     Team Project<br/>
-    Part: 키보드 입력 제어, 플레이어블 캐릭터 애니메이션 효과 적용<br/><br/>
+    Part: 키보드 입력 제어, 플레이어블 캐릭터 에셋 및 애니메이션, 포탄 이펙트 적용<br/><br/>
     <a href = 'https://github.com/Tikoring/capstone-2022-02'><b>📁 스포츠 매칭 어플리케이션 너만 오면 고!</b></a><br/>
     <img src = "https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>&nbsp
     <img src = "https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/><br/>
