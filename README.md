@@ -37,7 +37,7 @@
     <a href = 'https://github.com/Tikoring/capstone-2022-02'><b>📁 스포츠 매칭 어플리케이션 너만 오면 고!</b></a><br/>
     <img src = "https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>&nbsp
     <img src = "https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/><br/>
-    <b>2022.03-2022.06</b>
+    <b>2022.03-2022.06</b><br/>
     Team Project<br/>
     Part: App 전체적인 디자인 및 프론트 엔드, 네이버 지도 API를 활용한 지도구축
   </div>
